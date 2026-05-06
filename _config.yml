@@ -3,27 +3,32 @@
 version: 2
 
 # Personal info
+# Personal info
 name: Yuheng Wang
-title: Data Science Undergraduate at HKUST
+title: Data-Driven AI Researcher | Data Science at HKUST
 email: ywangrg@connect.ust.hk
 phone: "+86 137 1424 1526"
-website: https://Wangyh666-ust.github.io  # 建议填你自己的域名
+website: https://Wangyh666-ust.github.io
 location: Hong Kong / Shenzhen
 
 # Dark Mode (true/false/never)
 darkmode: never
 
-# Social links (已根据你的信息更新，没有的部分已注释)
+# Social links
 github_username: Wangyh666-ust
 # linkedin_username: yourprofile
 
 # About Section
-about_profile_image: images/profile.jpg # 记得在 images 文件夹下上传一张你的照片
+about_profile_image: images/profile.jpg
 about_content: |
-  I am a third-year Data Science student at **HKUST** with a strong foundation in machine learning, computer vision, and statistical modeling (GPA: 3.733/4.3). 
+  I am a **Data-Driven AI Researcher** and a Data Science student at **HKUST** (GPA: 3.733/4.3). My work is rooted in the belief that rigorous statistical insights are the bedrock of robust AI systems.
   
-  My expertise spans from training deep learning models (U-Net) for medical image segmentation to developing 3D reconstruction frameworks. I am passionate about building intelligent systems and exploring the intersection of AI and real-world applications. Currently seeking opportunities in Data Analysis and AI/CV Research.
-
+  Currently, I am interested in:
+  - **Reinforcement Learning (RL)**: Developing perception-action pipelines and exploring RL application in embodied intelligence.
+  - **Diffusion Models**: Investigating generative architectures and their potential in complex data synthesis.
+  - **Data Analysis**: Leveraging advanced statistical modeling and quantitative analysis to drive research-level insights.
+  
+  My expertise ranges from optimizing deep learning structures for medical image segmentation to building floorplan-guided 3D reconstruction frameworks. I am passionate about bridging the gap between theoretical Data Science and cutting-edge generative AI. Currently seeking opportunities to apply my skills in Data Analysis and AI/CV Research.
 content:
   - title: Highlighted Projects
     layout: list
