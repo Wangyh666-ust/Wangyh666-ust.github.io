@@ -11,7 +11,7 @@ website: https://Wangyh666-ust.github.io  # 建议填你自己的域名
 location: Hong Kong / Shenzhen
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links (已根据你的信息更新，没有的部分已注释)
 github_username: Wangyh666-ust
