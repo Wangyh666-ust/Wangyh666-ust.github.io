@@ -91,7 +91,7 @@ content:
     layout: text
     content: |
       - **Programming**: Python (Expert), C++, Java, R, SQL.
-      - **AI & Data**: PyTorch, Deep Learning (CV), Statistical Inference, Quantitative Modeling (Markowitz & Black-Litterman).
+      - **Data Science/ML**: PyTorch, Pandas, NumPy, Scikit-learn, Data Visualization (Tableau, Datawrapper).
       - **Languages**: Mandarin (Native), English (Fluent).
 
 # Footer
