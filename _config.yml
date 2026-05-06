@@ -25,14 +25,14 @@ about_profile_image: images/profile.jpg
 about_content: |
   **[📥 Download My CV](./assets/cv/CV.pdf)**
   
-  I am a **Data-Driven AI Researcher** and a Data Science student at **HKUST** (GPA: 3.733/4.3). My work is rooted in the belief that rigorous statistical insights are the bedrock of robust AI sys[...]
+  I am a **Data-Driven AI Researcher** and a Data Science student at **HKUST** (GPA: 3.733/4.3). My work is rooted in the belief that rigorous statistical insights are the bedrock of robust AI systems.
   
   Currently, I am interested in:
   - **Reinforcement Learning (RL)**: Developing perception-action pipelines and exploring RL application in embodied intelligence.
   - **Diffusion Models**: Investigating generative architectures and their potential in complex data synthesis.
   - **Data Analysis**: Leveraging advanced statistical modeling and quantitative analysis to drive research-level insights.
   
-  My expertise ranges from optimizing deep learning structures for medical image segmentation to building floorplan-guided 3D reconstruction frameworks. I am passionate about bridging the gap betw[...]
+  My expertise ranges from optimizing deep learning structures for medical image segmentation to building floorplan-guided 3D reconstruction frameworks. I am passionate about bridging the gap between theoretical Data Science and cutting-edge generative AI.
 content:
   - title: Highlighted Projects
     layout: list
