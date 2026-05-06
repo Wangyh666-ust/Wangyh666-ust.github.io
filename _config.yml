@@ -10,7 +10,9 @@ email: ywangrg@connect.ust.hk
 phone: "+86 137 1424 1526"
 website: https://Wangyh666-ust.github.io
 location: Hong Kong / Shenzhen
-
+# CV Download Link
+cv_link: /assets/cv/CV.pdf
+cv_text: "Download CV"
 # Dark Mode (true/false/never)
 darkmode: never
 
